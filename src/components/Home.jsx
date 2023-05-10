@@ -15,7 +15,7 @@ const Home = ({ ratio }) => {
     });
   };
   const animationProjectsCount = () => {
-    animate(0, 20, {
+    animate(0, 10, {
       duration: 2,
       onUpdate: (v) => (projectCount.current.textContent = v.toFixed()),
     });
@@ -62,7 +62,7 @@ const Home = ({ ratio }) => {
           />
 
           <div>
-            <a href="mailto:vishalgupta703782@gmail.com">Downloas CV</a>
+            <a href="https://drive.google.com/file/d/1aGqT93cQIzIKBVag4nkc-cJTBPJAiVk_/view?usp=sharing">Downloas CV</a>
             <a href="#work">
               Projects <BsArrowUpRight />
             </a>
@@ -78,7 +78,7 @@ const Home = ({ ratio }) => {
                     ref={projectCount}
                     whileInView={animationProjectsCount}
                   >
-                    20
+                    10
                   </motion.span>
                 
               </p>
