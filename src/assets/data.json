@@ -1,0 +1,51 @@
+{
+  
+    "projects": [
+      {
+        "date": "01/08/2020",
+        "title": "Nk Texcone",
+        "description": "I have bulid website for nktexcone factory",
+        "url": "https://nktexcone.com/",
+        "imgSrc": "https://nktexcone.com/static/images/bg5.jpg"
+      },
+      {
+        "date": "1/12/2020",
+        "title": "Tip Calculator",
+        "description": "The Shared Bill Tip Calculator considers the cost of the service, number of people, and chosen tip percentage to calculate the tip per person, as well as the total cost per person.",
+        "url": "https://dazzling-capybara-c51751.netlify.app/",
+        "imgSrc": "data:image/png;base64,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"
+      },
+
+      {
+        "date": "1/04/2021",
+        "title": "Eshop",
+        "description": "reated an online shopping system web-based application, where users can authenticate, buy any product, sell their products, add in-store, and user admin can edit items, add and delete them.",
+        "url": "https://github.com/v889/Eshop",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp0pLT2WtgwQbQYLjypWKG2tXIm-woHCDrQ&usqp=CAU"
+      },
+      {
+        "date": "07/10/2022",
+        "title": "TECHY Gyan",
+        "description": "This is basic front-end based tenplate website",
+        "url": "https://techgyan.vercel.app/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "15/10/2022",
+        "title": "XCrypto",
+        "description": "In this  website different types of bitcoins details fetch from API and show on website, pagination is also implemented. In this website different types of filter based on currency.",
+        "url": "https://vercel.com/vishal-gupta/bitcoin",
+        "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+      },
+  
+      
+      {
+        "date": "20/10/2022",
+        "title": "PORTFOLIO",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
